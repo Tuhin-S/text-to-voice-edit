@@ -78,3 +78,11 @@ select{
     background-position-x:calc(100% - 20px); 
     background-position-y:20px;
 }
+.bottomright{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
